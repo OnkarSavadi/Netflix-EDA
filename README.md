@@ -1,4 +1,4 @@
-# Netflix Exploratory data Analysis
+# Netflix Exploratory Data Analysis
 
 About Netflix
 
